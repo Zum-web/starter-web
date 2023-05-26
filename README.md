@@ -14,4 +14,8 @@ this is how to deploy
 
 ## how to contribute
 
+this is how to contribute
+
 ## how to use 
+
+this is how to use
