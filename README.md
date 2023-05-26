@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 this is how to deploy 
 
 ## how to contribute
+
+## how to use 
